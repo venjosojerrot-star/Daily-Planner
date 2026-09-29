@@ -1,0 +1,6 @@
+{
+  "name": "Daily Planner",
+  "description": "Google Calendar style daily schedule with integrated task lists and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
